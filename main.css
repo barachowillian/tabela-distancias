@@ -1,0 +1,18 @@
+table, tr, td{
+    border: solid 1px rgb(207, 189, 189);
+    border-collapse: collapse;
+}
+
+.largura{
+    background-color: rgb(255, 255, 255);
+    color: rgb(75, 152, 239);
+}
+
+#LargColuna{
+    width: 100px;
+}
+
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
