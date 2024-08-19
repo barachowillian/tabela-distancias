@@ -1,18 +1,24 @@
 table, tr, td{
-    border: solid 1px rgb(207, 189, 189);
+    border: solid 1px rgb(255, 0, 0);
     border-collapse: collapse;
 }
 
 .largura{
-    background-color: rgb(255, 255, 255);
-    color: rgb(75, 152, 239);
+    background-color: rgb(255, 142, 142);
+    color: rgb(0, 0, 0);
 }
 
-#LargColuna{
-    width: 100px;
+.largcoluna{
+    width: 159px;
 }
 
 body{
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
-
+ 
+#sl {
+    width: 150px;
+}
+#sp {
+    width: 200px;
+}
