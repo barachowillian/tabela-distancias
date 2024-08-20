@@ -14,10 +14,10 @@ pelo professor Leonardo Rocha.
     entre essas capitais. As capitais constantes nesse projeto são:
 
  * Porto Velho
- * Recife
+ * Recife  
  * Rio Branco
  * Rio de Janeiro
- * Salvador
+ * Salvador 
  * São Luiz 
  * São Paulo
  * Teresina 
