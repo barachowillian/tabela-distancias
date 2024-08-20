@@ -4,9 +4,9 @@ pelo professor Leonardo Rocha.
 
 ## Índice 
 
-* [Descrição] ()
-* [Referências] ()
-* [Autor(a)] ()
+* [Descrição](#descrição)
+* [Referências](#Referências)
+* [Autor(a)](#autor)
 
 ### Descrição 
 
@@ -24,6 +24,20 @@ pelo professor Leonardo Rocha.
 
 ## Tecnologias 
 
+* HTML5
+* CSS3
+* Git
+* Github
 ## Referências 
 
+[Alura](https://www.alura.com.br/artigos/escrever-bom-readme)- Como escrever um README incrível no seu Github
+
 ## Autor(a)
+
+ O projeto foi desenvolvido pelo grupo:
+ * Ana Laura
+ * Brenda Gomes
+ * Flora Natalia
+ * João Pedro
+ * Sabrina Cardoso
+ * Willian Baracho 
