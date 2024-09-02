@@ -43,6 +43,13 @@ Veja a imagem a seguir onde é possivel ver o uso do td:
 
  ![Resultado final do projeto](img/resultado-final.png)
 
+ ### Estilização
+
+ O projeto foi estilizado , utilizando CSS3. Foi criado um arquivo chamadi main.css. Nesse arquivo, constam configurações de estilo apresentadas a seguir:
+
+
+ 
+
 ## Tecnologias 
 
 * HTML5
